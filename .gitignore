@@ -1,0 +1,18 @@
+commands.txt
+
+
+#copy of hardhat/.gitignore
+hardhat/node_modules
+*.env*
+
+# Hardhat files
+hardhat/cache
+hardhat/artifacts
+
+# TypeChain files
+hardhat/typechain
+hardhat/typechain-types
+
+# solidity-coverage files
+hardhat/coverage
+hardhat/coverage.json
